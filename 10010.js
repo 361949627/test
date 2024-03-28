@@ -1,4 +1,4 @@
-
-console.log("fuck you")
+ 
+console.log("fuck man")
 $.msg("2222", "11111")
 $.done()
