@@ -1,6 +1,8 @@
 // cron "*/5 * * * *" script-path=raw_Prerelease-Alpha_10010.js,tag=联通余量v4-查询
 // const $ = new Env('联通余量v4-查询')
 
+console.log("fuck")
+/*
 var a0_0x3b4ad6 = a0_0x5258;
 (function(_0x280778, _0x247412) {
     var _0x11b94f = a0_0x5258,
@@ -4146,3 +4148,4 @@ function Env(_0x4059bc, _0x231588) {
         }
     }(_0x4059bc, _0x231588);
 }
+*/
