@@ -66,7 +66,7 @@
         },
         {
           "name": "手动执行查询（⚠️ 执行后 记得刷新）",
-          "script": "https://github.com/ChinaTelecomOperators/ChinaUnicom/releases/download/Prerelease-Alpha/10010.js"
+          "script": "https://github.com/361949627/test/blob/main/10010.js"
         },
         {
           "name": "(方式2)发送验证码（填手机号, 保存, 执行）",
